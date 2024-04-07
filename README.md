@@ -1,4 +1,4 @@
-# Jogo dos Dados - Projeto Flutter
+# A mágica Bola 8 - Projeto Flutter
 Este projeto consiste em uma tela simples desenvolvida em Flutter, que ao usuário clicar na bola 8, as suas mensagens são trocadas.
 
 ## Capturas de tela
