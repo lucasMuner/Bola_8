@@ -12,17 +12,17 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       home: Scaffold(
-          appBar: AppBar(
-            backgroundColor: Colors.blueGrey[600],
-            centerTitle: true,
-            title: Text(
-              "A mágica Bola 8",
-              style: TextStyle(
-                color: Colors.white,
-              ),
-            ),
+        appBar: AppBar(
+          backgroundColor: Colors.green[800],
+          centerTitle: true,
+          title: Text(
+            "A mágica Bola 8",
+            style: TextStyle(color: Colors.white, fontSize: 30),
           ),
-          body: Balls()),
+        ),
+        body: Balls(),
+        backgroundColor: Colors.green[500],
+      ),
     );
   }
 }
